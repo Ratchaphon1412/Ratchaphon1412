@@ -4,8 +4,8 @@ The Associated Board of the Royal Schools of Music | London , England <br>
 Bangkok Music School | Bangkok , Thailand  <br>
 Ladplakao pittayakom school | Bangkok , Thailand  <br>
 Satriwitthaya 2 School | Bangkok , Thailand  <br>
-Kasetsart University Computer Science | Bangkok , Thailand  <br> 
-* 🌍  I'm based in Bangkok , Thailand * ✉️  You can contact me at [Ratchaphon.h111@gmail.com](mailto:Ratchaphon.h111@gmail.com) <br>
+Kasetsart University Computer Science | Bangkok , Thailand  <br><br> 
+* 🌍  I'm based in Bangkok , Thailand * ✉️  You can contact me at <b>Ratchaphon.h111@gmail.com</b> <br>
 
 ### Skills  
 
